@@ -38,6 +38,7 @@ var Timeframes = []*Timeframe{
 	{"8H", 8 * time.Hour},
 	{"12H", 12 * time.Hour},
 	{"1D", Day},
+	{"4D", 4 * Day},
 	{"1W", 7 * Day},
 	//{"24H", 24 * time.Hour},
 }
